@@ -1,0 +1,142 @@
+[
+  {
+    "email": "iamthe@admin.com",
+    "userName": "admin",
+    "password": "admin",
+    "name": "Ad",
+    "lastName": "Min",
+    "uid": "e6a8f1e8-d981-4427-8f49-6d1696b8ae46",
+    "avatar": "https://cdn.fakercloud.com/avatars/8d3k_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Kaleb34@hotmail.com",
+    "userName": "Jeffery.Zieme",
+    "password": "AANCwIlQpAT1Pzf",
+    "name": "Melyna",
+    "lastName": "Rempel",
+    "uid": "e0b089f1-51ff-4a3b-9617-c8ed6fa5a019",
+    "avatar": "https://cdn.fakercloud.com/avatars/laasli_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Haylie_Hirthe@hotmail.com",
+    "userName": "Saul56",
+    "password": "BqV6EjAkKXd3_TT",
+    "name": "Ottis",
+    "lastName": "Ziemann",
+    "uid": "4f3bb052-f0c0-4f62-879c-ed577356ef39",
+    "avatar": "https://cdn.fakercloud.com/avatars/mr_subtle_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Jodie.Kirlin12@yahoo.com",
+    "userName": "Reid.Schowalter9",
+    "password": "P1OQouakdBv3Ao5",
+    "name": "Camron",
+    "lastName": "Pfannerstill",
+    "uid": "e7156fd5-fd19-46c1-9401-2c7f0d3c787c",
+    "avatar": "https://cdn.fakercloud.com/avatars/arindam__128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Chet.Heaney@gmail.com",
+    "userName": "Keely59",
+    "password": "qYdioUzuqab_TuI",
+    "name": "Kristian",
+    "lastName": "Treutel",
+    "uid": "1bc64664-4449-4006-8130-229b257e1c72",
+    "avatar": "https://cdn.fakercloud.com/avatars/snowwrite_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Leann.Davis21@yahoo.com",
+    "userName": "Carleton.Dietrich55",
+    "password": "BRbTvDXPTIS2Fal",
+    "name": "Mireya",
+    "lastName": "Gislason",
+    "uid": "7b1d2860-d1cc-420a-b599-a0903a73615c",
+    "avatar": "https://cdn.fakercloud.com/avatars/christianoliff_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Kiara.Macejkovic@yahoo.com",
+    "userName": "Landen_Nitzsche",
+    "password": "ZZFgcB5jJ6oOjHM",
+    "name": "Marlene",
+    "lastName": "Wisoky",
+    "uid": "19735702-cd97-49f8-8838-abd28fceb31c",
+    "avatar": "https://cdn.fakercloud.com/avatars/christianoliff_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Hardy_OKeefe49@yahoo.com",
+    "userName": "Juanita48",
+    "password": "LWsWT2kHVOWa7SN",
+    "name": "Orie",
+    "lastName": "Gleason",
+    "uid": "e003352f-25b2-4329-9a30-094e11b36567",
+    "avatar": "https://cdn.fakercloud.com/avatars/the_purplebunny_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Brittany90@gmail.com",
+    "userName": "Elvie41",
+    "password": "ds74UFteoGW88eo",
+    "name": "Carmine",
+    "lastName": "Crooks",
+    "uid": "2f618c6c-6d9a-4b9f-b4c1-156f18964d28",
+    "avatar": "https://cdn.fakercloud.com/avatars/jcubic_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Shakira_Wisozk@gmail.com",
+    "userName": "Teresa_Cassin99",
+    "password": "TdrwfVjYhmfwxHZ",
+    "name": "Della",
+    "lastName": "Daniel",
+    "uid": "9b7fe352-8d3c-4e08-9976-f8f270adaf35",
+    "avatar": "https://cdn.fakercloud.com/avatars/nicoleglynn_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Arnaldo.Anderson@hotmail.com",
+    "userName": "Gus19",
+    "password": "_JvwqeeXobS80k6",
+    "name": "Erling",
+    "lastName": "Stoltenberg",
+    "uid": "b19af1eb-d6f5-47ce-b824-ce62bd3ed194",
+    "avatar": "https://cdn.fakercloud.com/avatars/happypeter1983_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Marco74@hotmail.com",
+    "userName": "Maegan11",
+    "password": "XG72aulKO5TD3lC",
+    "name": "Noemy",
+    "lastName": "Zemlak",
+    "uid": "5aa431cd-e528-4849-a70e-561ee9221240",
+    "avatar": "https://cdn.fakercloud.com/avatars/xadhix_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Wilber7@hotmail.com",
+    "userName": "Joesph.Watsica",
+    "password": "wZcK9hyA1WrfKKE",
+    "name": "Wilmer",
+    "lastName": "Franecki",
+    "uid": "601cc159-5160-401e-b5a1-083c3b13a765",
+    "avatar": "https://cdn.fakercloud.com/avatars/mbilalsiddique1_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Jaylan_Deckow45@hotmail.com",
+    "userName": "Rose.Lockman21",
+    "password": "t9fNn0NSA94qYS0",
+    "name": "Amiya",
+    "lastName": "Bruen",
+    "uid": "1ec652f0-248e-4f33-be19-62c134052dcf",
+    "avatar": "https://cdn.fakercloud.com/avatars/jeremyworboys_128.jpg",
+    "role": "USER"
+  }
+]
